@@ -12,6 +12,12 @@ Go to the [Loans CSV](https://github.com/justinkelly/vala_2023_techcamp_powerbi/
 
 ![](./images/download.png)
 
+## Links
+
+* Files:  bit.ly/vala23-powerbi-files
+* Notes: bit.ly/vala23-powerbi-notes
+* Slides: bit.ly/vala23-powerbi-slides
+
 ## Info
 Source info for the library files:
 
@@ -21,3 +27,4 @@ Libraries NI Annual Loans Summary
 Emily Brontë file
 * [https://www.bl.uk/collection-metadata/downloads](https://www.bl.uk/collection-metadata/downloads)
 * Literature datasets >  Emily Brontë CSV (ZIP 909 KB) Updated July 2023
+
