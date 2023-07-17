@@ -8,7 +8,7 @@ Loans CSV: [https://github.com/justinkelly/vala_2023_techcamp_powerbi/blob/main/
 
 ## How to dowbload CSV
 
-Click the Download icon (refer image below) to download the loans csv file
+Go to the [Loans CSV](https://github.com/justinkelly/vala_2023_techcamp_powerbi/blob/main/libraries-ni-annual-loans-summary-2021-2022.csv) file and click the Download icon (refer image below) to download the loans csv file
 
 ![](./images/download.png)
 
