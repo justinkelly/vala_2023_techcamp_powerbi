@@ -6,6 +6,9 @@ Download all files as zip: [https://github.com/justinkelly/vala_2023_techcamp_po
 
 Loans CSV: [https://github.com/justinkelly/vala_2023_techcamp_powerbi/blob/main/libraries-ni-annual-loans-summary-2021-2022.csv](https://github.com/justinkelly/vala_2023_techcamp_powerbi/blob/main/libraries-ni-annual-loans-summary-2021-2022.csv)
 
+Click the Dlownload icon (refer imnage below) to download the loans csv file
+
+![](./images/download.png)
 
 Source info for the library files:
 
