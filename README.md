@@ -1,5 +1,7 @@
 # VALA TechCamp 2023 PowerBI files
 
+Download PowerBI: [https://powerbi.microsoft.com/en-us/downloads/](https://powerbi.microsoft.com/en-us/downloads/)
+
 Files for the PowerBI training at VALA TechCamp 2023 
 
 Download all files as zip: [https://github.com/justinkelly/vala_2023_techcamp_powerbi/raw/main/vala-file-download.zip](https://github.com/justinkelly/vala_2023_techcamp_powerbi/raw/main/vala-file-download.zip)
