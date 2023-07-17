@@ -14,9 +14,9 @@ Go to the [Loans CSV](https://github.com/justinkelly/vala_2023_techcamp_powerbi/
 
 ## Links
 
-* Files:  bit.ly/vala23-powerbi-files
-* Notes: bit.ly/vala23-powerbi-notes
-* Slides: bit.ly/vala23-powerbi-slides
+* Files:  [bit.ly/vala23-powerbi-files](bit.ly/vala23-powerbi-files)
+* Notes: [bit.ly/vala23-powerbi-notes](bit.ly/vala23-powerbi-notes)
+* Slides: [bit.ly/vala23-powerbi-slides](bit.ly/vala23-powerbi-slides)
 
 ## Info
 Source info for the library files:
